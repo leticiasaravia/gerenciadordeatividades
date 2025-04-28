@@ -33,8 +33,28 @@ Trata-se de um site desenvolvido com o objetivo de facilitar a organização do 
 
 ### 2.2. User Stories (Semana 01)
 
-*Posicione aqui a lista de User Stories levantadas para o projeto. Siga o template de User Stories e utilize a referência USXX para numeração (US01, US02, US03, ...). Indique todas as User Stories mapeadas, mesmo aquelas que não forem implementadas ao longo do projeto. Não se esqueça de explicar o INVEST de 1 User Storie prioritária.*
+US01
+Como estudante de Direito, quero receber lembretes de início, meio e fim de uma atividade, para que eu consiga administrar melhor o meu tempo e não me perder nas tarefas.
 
+US02
+Como usuária que busca produtividade, quero visualizar todas as minhas atividades em um calendário intuitivo, para que eu compreenda facilmente meus compromissos e prioridades.
+
+US03 (com análise INVEST)
+Como usuária que tem dificuldade em definir prioridades, quero que as tarefas sejam automaticamente classificadas por nível de importância, para que eu saiba em qual atividade focar primeiro.
+
+Análise INVEST de US03:
+
+Independente: Pode ser implementada de forma isolada sem depender de outra funcionalidade.
+
+Negociável: A maneira de classificação manual pelo usuário pode ser adaptada conforme necessidade.
+
+Valiosa: Ajuda Amanda a superar sua maior dor, que é não conseguir definir prioridades, aumentando sua produtividade.
+
+Estimável: A tarefa é de complexidade moderada, possível de estimar para planejamento de sprints.
+
+Pequena: Pode ser dividida em partes menores (ex: definição de critérios de prioridade, exibição no app, etc.).
+
+Testável: É possível testar verificando se as tarefas aparecem ordenadas conforme os critérios definidos.
 ---
 
 ## <a name="c3"></a>3. Projeto da Aplicação Web
