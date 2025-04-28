@@ -3,9 +3,10 @@
 **_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final._**
 
 ## Nome do Projeto
+Personal Organizer
 
 #### Autor do projeto
-
+Letícia Fernandes do Espírito Santo Saravia
 ## Sumário
 
 1. [Introdução](#c1)  
@@ -20,6 +21,7 @@
 
 *Preencha com até 300 palavras – sem necessidade de fonte.*
 *Descreva brevemente o sistema que você irá desenvolver.*
+Trata-se de um site desenvolvido com o objetivo de facilitar a organização do dia a dia universitário. A plataforma permite ao usuário adicionar e editar tarefas comcom uma interface intuitiva e acessível, pensada para tornar o usuário mais produtivo. Os dados são integrados pelo próprio estudante, porém o sistema possui lembretes automáticos sobre limite de tempo em uma task e o início de uma nova. 
 
 ---
 
