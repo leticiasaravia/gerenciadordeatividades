@@ -31,10 +31,12 @@ Trata-se de um site desenvolvido com o objetivo de facilitar a organização do 
 
 ### 2.1. Personas (Semana 01)
 
+
 <div align="center">
-    <strong style="font-size: 18px;"><sub>Persona</sub></strong><br>
-<img src="img/amandabatista.png" width="60%"
-    alt="Persona"><br>
+<sub>Figura 1 - Persona</sub><br>
+<img src="img/persona.png" width="80%"><br>
+<sup>Fonte: Material produzido pela autora (2025)</sup>
+</div>
 
 ### 2.2. User Stories (Semana 01)
 
