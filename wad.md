@@ -22,7 +22,7 @@ Letícia Fernandes do Espírito Santo Saravia
 
 ## <a name="c1"></a>1. Introdução (Semana 01)
 
-Trata-se de um site desenvolvido com o objetivo de facilitar a organização do dia a dia universitário. A plataforma permite ao usuário adicionar e editar tarefas comcom uma interface intuitiva e acessível, pensada para tornar o usuário mais produtivo. Os dados são integrados pelo próprio estudante, porém o sistema possui lembretes automáticos sobre limite de tempo em uma task e o início de uma nova. 
+Trata-se de um site desenvolvido com o objetivo de facilitar a organização do dia a dia universitário. A plataforma permite ao usuário adicionar e editar tarefas com uma interface intuitiva e acessível, pensada para tornar o usuário mais produtivo. Os dados são integrados pelo próprio estudante, porém o sistema possui lembretes automáticos sobre limite de tempo em uma task e o início de uma nova. 
 
 
 ---
