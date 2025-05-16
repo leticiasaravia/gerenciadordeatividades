@@ -90,7 +90,12 @@ Testável: É possível testar verificando se as tarefas aparecem ordenadas conf
 
 ### 3.3. Wireframes (Semana 03)
 
-*Posicione aqui as imagens do wireframe construído para sua solução e, opcionalmente, o link para acesso (mantenha o link sempre público para visualização).*
+<div align="center">
+<sub>Figura 2 - Wireframes </sub><br>
+<img src="img/wireframes1.png" width="80%"><br>
+<sup>Fonte: Material produzido pela autora (2025)</sup>
+</div>
+
 
 ### 3.4. Guia de estilos (Semana 05)
 
