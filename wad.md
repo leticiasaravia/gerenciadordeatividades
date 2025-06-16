@@ -95,6 +95,13 @@ Testável: É possível testar verificando se as tarefas aparecem ordenadas conf
 <sup>Fonte: Material produzido pela autora (2025)</sup>
 </div>
 
+Os wireframes desenvolvidos estão alinhados com as funcionalidades descritas nas User Stories pois representam visualmente os principais fluxos de interação da aplicação, garantindo que as demandas do usuário final estejam contempladas desde as etapas iniciais do design.
+
+A User Story 01, que trata da necessidade de receber lembretes de início, meio e fim de uma atividade, está refletida na segunda tela do wireframe. Nela, é exibido um pop-up com a mensagem: “Parabéns, seu tempo de terminar sua atividade acabou! Agora, inicie a fazer...”. Esse elemento reforça o apoio do sistema na gestão de tempo, sinalizando o término da tarefa e incentivando a continuidade do trabalho.
+
+A User Story 02, focada na visualização intuitiva das atividades, foi contemplada com uma estrutura em grade que organiza as tarefas ao longo do tempo. Essa organização facilita a leitura e a compreensão rápida dos compromissos e prazos, oferecendo ao usuário uma experiência semelhante à de um calendário, como solicitado.
+
+Já a User Story 03, relacionada à dificuldade de definição de prioridades, foi incorporada ao layout por meio do campo "Prioridade" no detalhamento das tarefas. Ainda que o wireframe não represente a lógica de priorização automática, ele reserva espaço para essa informação, permitindo que a funcionalidade seja implementada sem comprometer o layout proposto.
 
 ### 3.4. Guia de estilos (Semana 05)
 
