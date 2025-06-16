@@ -92,7 +92,7 @@ Testável: É possível testar verificando se as tarefas aparecem ordenadas conf
 
 <div align="center">
 <sub>Figura 2 - Wireframe</sub><br>
-<img src="img\wireframes1.png" width="80%"><br>
+<img src="img\wireframe.png" width="80%"><br>
 <sup>Fonte: Material produzido pela autora (2025)</sup>
 </div>
 
