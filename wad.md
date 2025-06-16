@@ -90,7 +90,7 @@ Testável: É possível testar verificando se as tarefas aparecem ordenadas conf
 
 ### 3.3. Wireframes (Semana 03)
 <div align="center">
-<sub>Figura 1 - Persona</sub><br>
+<sub>Figura 2 - Wireframe</sub><br>
 <img src="img\wireframe.png" width="80%"><br>
 <sup>Fonte: Material produzido pela autora (2025)</sup>
 </div>
@@ -98,7 +98,11 @@ Testável: É possível testar verificando se as tarefas aparecem ordenadas conf
 
 ### 3.4. Guia de estilos (Semana 05)
 
-*Descreva aqui orientações gerais para o leitor sobre como utilizar os componentes do guia de estilos de sua solução.*
+<div align="center">
+<sub>Figura 3 - Guia de Estilo</sub><br>
+<img src="img\styleguide.png" width="80%"><br>
+<sup>Fonte: Material produzido pela autora (2025)</sup>
+</div>
 
 
 ### 3.5. Protótipo de alta fidelidade (Semana 05)
