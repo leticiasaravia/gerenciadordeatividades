@@ -90,7 +90,12 @@ Testável: É possível testar verificando se as tarefas aparecem ordenadas conf
 
 ### 3.3. Wireframes (Semana 03)
 
-img src="img\wireframes1.png" 
+<div align="center">
+<sub>Figura 2 - Wireframe</sub><br>
+<img src="img/wireframes1.png" width="80%"><br>
+<sup>Fonte: Material produzido pela autora (2025)</sup>
+</div>
+
 ### Conexão entre Wireframe e User Story
 
 **User Story:**  
