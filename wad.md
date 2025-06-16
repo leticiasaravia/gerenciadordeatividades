@@ -89,8 +89,12 @@ Testável: É possível testar verificando se as tarefas aparecem ordenadas conf
 *Adicione as setas e explicações sobre como os dados fluem entre o Model, Controller e View.*
 
 ### 3.3. Wireframes (Semana 03)
+<div align="center">
+<sub>Figura 1 - Persona</sub><br>
+<img src="img\wireframe.png" width="80%"><br>
+<sup>Fonte: Material produzido pela autora (2025)</sup>
+</div>
 
-*Posicione aqui as imagens do wireframe construído para sua solução e, opcionalmente, o link para acesso (mantenha o link sempre público para visualização).*
 
 ### 3.4. Guia de estilos (Semana 05)
 
