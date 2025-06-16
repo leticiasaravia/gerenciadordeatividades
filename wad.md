@@ -114,7 +114,7 @@ Já a User Story 03, relacionada à dificuldade de definição de prioridades, f
 
 ### 3.5. Protótipo de alta fidelidade (Semana 05)
 
-*Posicione aqui algumas imagens demonstrativas de seu protótipo de alta fidelidade e o link para acesso ao protótipo completo (mantenha o link sempre público para visualização).*
+[Protótipo de alta fidelidade](https://www.figma.com/design/PCjPRaLM9DtxfYz7RA7HB0/Untitled?node-id=0-1&t=VgpdrAXbcxdVU66j-1)
 
 ### 3.6. WebAPI e endpoints (Semana 05)
 
