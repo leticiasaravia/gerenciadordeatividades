@@ -90,20 +90,7 @@ Testável: É possível testar verificando se as tarefas aparecem ordenadas conf
 
 ### 3.3. Wireframes (Semana 03)
 
-<div align="center">
-<sub>Figura 2 - Wireframe</sub><br>
-<img src="img\wireframe.png" width="80%"><br>
-<sup>Fonte: Material produzido pela autora (2025)</sup>
-</div>
-
-### Conexão entre Wireframe e User Story
-
-**User Story:**  
-US01 — Como estudante de Direito, quero receber lembretes de início, meio e fim de uma atividade, para que eu consiga administrar melhor o meu tempo e não me perder nas tarefas.
-
-**Justificativa:**  
-Esse wireframe representa a funcionalidade de lembrete ao final de uma tarefa, conforme descrito na US01. A exibição de uma notificação ao término da atividade indica que o sistema está monitorando o tempo e alertando o usuário sobre o progresso, o que contribui diretamente para uma melhor administração do tempo e cumprimento de prazos.
-
+*Posicione aqui as imagens do wireframe construído para sua solução e, opcionalmente, o link para acesso (mantenha o link sempre público para visualização).*
 
 ### 3.4. Guia de estilos (Semana 05)
 
